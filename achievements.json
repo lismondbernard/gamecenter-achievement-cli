@@ -1,0 +1,108 @@
+[
+  {
+    "name": "First Player",
+    "vendorIdentifier": "com.example.game.achievement.first_player",
+    "points": 5,
+    "isSecret": false,
+    "localizations": [
+      {
+        "locale": "en-US",
+        "name": "First Player",
+        "beforeDescription": "Play your first game",
+        "afterDescription": "You've played your first game!"
+      },
+      {
+        "locale": "es-ES",
+        "name": "Primer Jugador",
+        "beforeDescription": "Juega tu primer juego",
+        "afterDescription": "¡Has jugado tu primer juego!"
+      },
+      {
+        "locale": "fr-FR",
+        "name": "Premier Joueur",
+        "beforeDescription": "Jouez votre premier jeu",
+        "afterDescription": "Vous avez joué votre premier jeu!"
+      }
+    ]
+  },
+  {
+    "name": "Speed Demon",
+    "vendorIdentifier": "com.example.game.achievement.speed_demon",
+    "points": 25,
+    "isSecret": false,
+    "localizations": [
+      {
+        "locale": "en-US",
+        "name": "Speed Demon",
+        "beforeDescription": "Complete a level in under 30 seconds",
+        "afterDescription": "You're a speed demon!"
+      },
+      {
+        "locale": "es-ES",
+        "name": "Demonio de Velocidad",
+        "beforeDescription": "Completa un nivel en menos de 30 segundos",
+        "afterDescription": "¡Eres un demonio de velocidad!"
+      }
+    ]
+  },
+  {
+    "name": "Collector",
+    "vendorIdentifier": "com.example.game.achievement.collector",
+    "points": 50,
+    "isSecret": false,
+    "localizations": [
+      {
+        "locale": "en-US",
+        "name": "Collector",
+        "beforeDescription": "Collect all items in one level",
+        "afterDescription": "You've collected everything!"
+      },
+      {
+        "locale": "es-ES",
+        "name": "Coleccionista",
+        "beforeDescription": "Recoge todos los artículos en un nivel",
+        "afterDescription": "¡Has recogido todo!"
+      }
+    ]
+  },
+  {
+    "name": "Secret Achievement",
+    "vendorIdentifier": "com.example.game.achievement.secret",
+    "points": 100,
+    "isSecret": true,
+    "localizations": [
+      {
+        "locale": "en-US",
+        "name": "Secret Achievement",
+        "beforeDescription": "Find the hidden secret",
+        "afterDescription": "You found the secret!"
+      }
+    ]
+  },
+  {
+    "name": "Master of the Game",
+    "vendorIdentifier": "com.example.game.achievement.master",
+    "points": 200,
+    "isSecret": false,
+    "localizations": [
+      {
+        "locale": "en-US",
+        "name": "Master of the Game",
+        "beforeDescription": "Complete all levels on hard difficulty",
+        "afterDescription": "You're a master!"
+      },
+      {
+        "locale": "es-ES",
+        "name": "Maestro del Juego",
+        "beforeDescription": "Completa todos los niveles en dificultad difícil",
+        "afterDescription": "¡Eres un maestro!"
+      },
+      {
+        "locale": "fr-FR",
+        "name": "Maître du Jeu",
+        "beforeDescription": "Complétez tous les niveaux en difficulté difficile",
+        "afterDescription": "Vous êtes un maître!"
+      }
+    ]
+  }
+]

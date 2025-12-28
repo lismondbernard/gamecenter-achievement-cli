@@ -1,0 +1,30 @@
+# Swift Package Manager
+.build/
+.swiftpm/
+*.xcodeproj
+*.xcworkspace
+
+# macOS
+.DS_Store
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+
+# Credentials - NEVER commit these!
+*.p8
+*config.json
+.gamecenter-cli-config.json
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*.swo
+*~
+.*.swp
+
+# Logs
+*.log
