@@ -346,4 +346,4 @@ For issues and questions:
 ---
 
 **Created:** December 2025
-**Maintained by:** [Your Name]
+**Maintained by:** Lismond Bernard
